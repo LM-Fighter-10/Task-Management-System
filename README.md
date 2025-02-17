@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is based on the original project [Task-Management-System-Zidio](https://github.com/bk110306/Task-Management-System-Zidio), developed by Muhammad Burhan Khan and contributors. I was a contributor to the original repository and have created this fork to continue development and introduce new features independently.
+This repository is based on the original project [Task-Management-System-Zidio](https://github.com/bk110306/Task-Management-System-Zidio), developed by Me & Muhammad Burhan Khan. I was a contributor to the original repository and have created this fork to continue development and introduce new features independently.
 
 The Task Management System is a web application designed to help teams efficiently create, assign, track, and manage tasks. It includes role-based access control, real-time task updates, and secure authentication to enhance collaboration and improve task organization.
 
