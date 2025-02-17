@@ -19,16 +19,16 @@ The Task Management System is a web application designed to help teams efficient
 
 ### Frontend:
 * [![React][React.js]][React-url]
-* Tailwind.css
+* [Tailwind.css](https://tailwindcss.com/)
 
 ### Backend:
 * [Node.js](https://nodejs.org/)
 * [Express.js](https://expressjs.com/)
-* MongoDB (Mongoose for ORM)
+* [MongoDB (Mongoose for ORM)](https://www.mongodb.com/)
 
 ### Security & Authentication:
-* JWT (JSON Web Token)
-* Bcrypt.js for password hashing
+* [JWT (JSON Web Token)](https://jwt.io/)
+* [Bcrypt.js for password hashing](https://www.npmjs.com/package/bcryptjs)
 * Session-based authentication
 
 ## Installation & Setup
