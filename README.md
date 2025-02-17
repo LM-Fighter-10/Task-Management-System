@@ -18,7 +18,7 @@ The Task Management System is a web application designed to help teams efficient
 ## Tech Stack
 
 ### Frontend:
-* [![React][React.js]][React-url]
+* [React.js](https://reactjs.org/)
 * [Tailwind.css](https://tailwindcss.com/)
 
 ### Backend:
