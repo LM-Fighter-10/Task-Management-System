@@ -1,0 +1,74 @@
+.password-error {
+  border: 2px red solid;
+}
+.disable-div{
+  opacity: 0.2;
+  user-select: none;
+  pointer-events: none;
+}
+
+select, option, optgroup {
+  cursor: pointer;
+}
+
+.register-input-group {
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.register-input-group .input-group:first-child {
+  flex: 0.55;
+  min-width: 225px;
+}
+
+.register-input-group .input-group:last-child {
+  flex: 0.45;
+  min-width: 185px;
+}
+
+.form-check-input {
+  cursor: pointer;
+}
+
+.list-group {
+  user-select: none;
+}
+
+.project-selected {
+  border: 3px solid rgb(88 86 214) !important;
+  box-shadow: 0 0 17px 3px rgb(88 86 214);
+}
+
+.modal-dialog{
+  min-width: fit-content;
+}
+
+@media (max-width: 992px) {
+  .login-column {
+    flex: 1;
+    min-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .row:has(.admin-card) {
+    gap: 1rem;
+  }
+  // Parent of login-column (container)
+  .container:has(.login-column) {
+    max-width: 720px;
+  }
+}
+
+@media (max-width: 535px) {
+  .register-input-group .input-group:first-child {
+    flex: 1;
+    min-width: 100%;
+  }
+
+  .register-input-group .input-group:last-child {
+    flex: 1;
+    min-width: 100%;
+  }
+
+}
