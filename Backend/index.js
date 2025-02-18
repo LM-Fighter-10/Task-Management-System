@@ -24,7 +24,7 @@ initializeSocket(server);
 
 const cors = require("cors");
 
-const allowedOrigins = [ENV.Front_Origin];
+const allowedOrigins = [ENV.Front_Origin, "http://localhost:5173"];
 
 // Middleware to allow requests from other origins
 app.use(
