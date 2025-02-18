@@ -5,6 +5,23 @@
 
 The Task Management System is a web application that allows users to create, assign, track, and manage tasks efficiently. The system provides role-based access control, real-time task updates, and secure authentication. It is designed to enhance collaboration and improve task organization within teams.
 
+## Roles Definition
+
+The system supports the following roles with distinct permissions:
+
+- **Admin:**  
+  Has full access to the system, including managing users, projects, tasks, and settings.
+  
+- **Manager:**  
+  Can create, update, assign, and track tasks and projects. Responsible for team management and task prioritization.
+  
+- **User:**  
+  A regular user who can view and update tasks assigned to them and comment on tasks.
+
+## Live Demo
+
+Check out the deployed website at: [https://task-management-system-uwpq.vercel.app/](https://task-management-system-uwpq.vercel.app/)
+
 ## Features
 
 * 🔐 User Authentication – Secure login and session management using JWT.
