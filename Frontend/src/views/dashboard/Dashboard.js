@@ -263,7 +263,7 @@ const Dashboard = () => {
         <CRow className="justify-content-center">
           <CCol md={3} className="mb-4">
             <CCard className="border-0 shadow-sm text-center">
-              <CCardImage src="../../src/assets/images/burhan.jpg" className=" mx-auto " width="100"/>
+              <CCardImage src="/src/assets/images/burhan.jpg" className=" mx-auto " width="100"/>
               <CCardBody>
                 <CCardTitle className="fw-bold">Burhan Khan</CCardTitle>
                 <CCardText>Frontend Developer</CCardText>
@@ -272,7 +272,7 @@ const Dashboard = () => {
           </CCol>
           <CCol md={3} className="mb-4">
             <CCard className="border-0 shadow-sm text-center">
-              <CCardImage src="../../src/assets/images/omer.jpg" className="mx-auto" width="100"/>
+              <CCardImage src="/src/assets/images/omer.jpg" className="mx-auto" width="100"/>
               <CCardBody>
                 <CCardTitle className="fw-bold">Omar Alaa Elnahass</CCardTitle>
                 <CCardText>Backend Developer</CCardText>
@@ -281,7 +281,7 @@ const Dashboard = () => {
           </CCol>
           <CCol md={3} className="mb-4">
             <CCard className="border-0 shadow-sm text-center">
-              <CCardImage src="../../src/assets/images/omotuwa.jpg" className="mx-auto" width="100"/>
+              <CCardImage src="/src/assets/images/omotuwa.jpg" className="mx-auto" width="100"/>
               <CCardBody>
                 <CCardTitle className="fw-bold">Omotuwa Ojo</CCardTitle>
                 <CCardText>Backend Developer</CCardText>
