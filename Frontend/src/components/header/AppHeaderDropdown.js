@@ -77,7 +77,7 @@ const AppHeaderDropdown = () => {
           <CAvatar
             key={currentUser ? currentUser.avatar : "avatar"}
             className={loadingAvatar ? "opacity-25" : ""}
-            src={!loadingAvatar && currentUser ? currentUser.avatar : avatar8}
+            src={!loadingAvatar && currentUser ? currentUser?.avatar : avatar8}
             size="md"
           />
           {loadingAvatar && <CSpinner className="position-absolute" color="primary"/>}

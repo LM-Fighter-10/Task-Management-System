@@ -2,7 +2,7 @@ const Front_Port = 5173;
 const Back_Port = 3008;
 const Front_Origin = `http://localhost:${Front_Port}`;
 // const Back_Origin = `http://localhost:${Back_Port}`;
-const Back_Origin = `https://depi-e-learning-system-server-olpgzqgyk-lm-fighter-10s-projects.vercel.app`;
+const Back_Origin = `https://task-management-system-rouge-omega.vercel.app`;
 const Secret_Key = 'a7c11385e00dae315afbe1cfb38a05b19b808715dee90a37088b0d7dd4ee357';
 // Database_URI format: "mongodb+srv://<username>:<password>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appname>"
 const Database_URI = "mongodb+srv://omaralaa927:MNEhhVfKUb8iifTe@cluster0.pv4l5.mongodb.net/Task_Management?retryWrites=true&w=majority&appName=Cluster0";
