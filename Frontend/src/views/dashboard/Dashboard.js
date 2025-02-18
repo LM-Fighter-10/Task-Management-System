@@ -272,7 +272,7 @@ const Dashboard = () => {
           </CCol>
           <CCol md={3} className="mb-4">
             <CCard className="border-0 shadow-sm text-center">
-              <CCardImage src="/assets/images/omer.jpg" className="mx-auto" width="100"/>
+              <CCardImage src="/assets/images/omar.jpg" className="mx-auto" width="100"/>
               <CCardBody>
                 <CCardTitle className="fw-bold">Omar Alaa Elnahass</CCardTitle>
                 <CCardText>Backend Developer</CCardText>
