@@ -17,7 +17,7 @@ import {
 } from '@coreui/icons'
 import CIcon from '@coreui/icons-react'
 import { Link, useNavigate } from 'react-router-dom'
-import avatar8 from './../../assets/images/avatars/3.jpg'
+import avatar8 from '/assets/images/avatars/3.jpg'
 import {AppContext} from "src/App";
 import {Back_Origin} from "../../../../Frontend_ENV";
 
